@@ -5,5 +5,6 @@ Experimentos feito apenas com CSS
 * [Sidenav menu animated](http://codepen.io/Evertonl1ma/full/pbALjN/)
 * [Menu Off Canvas](http://codepen.io/Evertonl1ma/full/BzwmBZ/)
 * [Accordion](http://codepen.io/Evertonl1ma/full/MwLxBV/)
+* [Tabs](http://codepen.io/Evertonl1ma/full/bZoYdb/)
 
  
