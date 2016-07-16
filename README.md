@@ -6,6 +6,6 @@ Experimentos feito apenas com CSS
 * [Menu Off Canvas](http://codepen.io/Evertonl1ma/full/BzwmBZ/)
 * [Accordion](http://codepen.io/Evertonl1ma/full/MwLxBV/)
 * [Tabs](http://codepen.io/Evertonl1ma/full/bZoYdb/)
-* [Lightbox](http://codepen.io/Evertonl1ma/full/xOpyYb/)
+* [Lightbox](http://codepen.io/Evertonl1ma/full/xOpyYb/) 
 
  
