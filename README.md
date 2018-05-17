@@ -9,5 +9,6 @@ Experimentos feito apenas com CSS
 * [Lightbox](http://codepen.io/Evertonl1ma/full/xOpyYb/) 
 * [Modal](http://codepen.io/Evertonl1ma/full/oLpQjW/)
 * [Slideshow](http://codepen.io/Evertonl1ma/full/akErkm/)
+* [Fill Text Effect](https://codepen.io/Evertonl1ma/pen/ELdGjQ)
 
  
